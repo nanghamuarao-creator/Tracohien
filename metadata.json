@@ -1,0 +1,6 @@
+{
+  "name": "Trà Cô Hiền - Đẳng Cấp Trà Việt",
+  "description": "Landing page giới thiệu thương hiệu Trà Cô Hiền - Trà Thái Nguyên từ vùng đất An Giang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
